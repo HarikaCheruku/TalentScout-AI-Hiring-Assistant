@@ -3,9 +3,6 @@
 <h2>Overview</h2>
 <p><strong>TalentScout</strong> is an AI-powered chatbot designed to help recruiters streamline the initial screening process for job candidates. It collects essential details, generates technical interview questions based on the candidate’s skills, and performs sentiment analysis on their responses. By leveraging <strong>large language models (LLMs)</strong> and <strong>multilingual support</strong>, TalentScout enhances the hiring process, saving recruiters valuable time.</p>
 
-<h3>Why This Project?</h3>
-<p>Recruiters often struggle with manually screening candidates across diverse technical backgrounds. TalentScout automates this process, allowing recruiters to focus on evaluating the best candidates.</p>
-
 <h2>Key Features</h2>
 <ul>
     <li><strong>Candidate Information Collection:</strong> Captures details like name, email, experience, preferred role, and tech stack.</li>
